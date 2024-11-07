@@ -14,5 +14,5 @@ I use YOLOv8(m) train on Kaggle with GPU P100
 * https://universe.roboflow.com/study-eivvg/helmet-detection-and-license-plate-recognition-zfenu-ctzln
 * Class: ['helmet', 'licenseplate', 'motorcyclist', 'nohelmet']
 
-# Here comparison all model YOLO I make with 10 epoch
+# Here comparison of model YOLO I pretrained with 10 epoch
 ![Screenshot 2024-11-07 155155](https://github.com/user-attachments/assets/8f36e2cb-1705-4a11-b8ce-91ac201a9bcd)
