@@ -8,8 +8,11 @@ https://drive.google.com/drive/folders/1hnsTl6HRZWnf41m4Z6Y-pziOZUYuoEX4?usp=sha
 TensorFlow, Jupyter, Kaggle, Python
 
 # The model:
-I use YOLOv8(m) with 60 epoch train on Kaggle with GPU P100
+I use YOLOv8(m) train on Kaggle with GPU P100
 
 # Dataset:
 * https://universe.roboflow.com/study-eivvg/helmet-detection-and-license-plate-recognition-zfenu-ctzln
 * Class: ['helmet', 'licenseplate', 'motorcyclist', 'nohelmet']
+
+# Here comparison all model YOLO I make with 10 epoch
+![Uploading image.png…]()
