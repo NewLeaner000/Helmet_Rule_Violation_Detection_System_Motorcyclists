@@ -11,4 +11,5 @@ TensorFlow, Jupyter, Kaggle, Python
 I use YOLOv8(m) with 60 epoch train on Kaggle with GPU P100
 
 # Dataset:
-https://universe.roboflow.com/study-eivvg/helmet-detection-and-license-plate-recognition-zfenu-ctzln
+* https://universe.roboflow.com/study-eivvg/helmet-detection-and-license-plate-recognition-zfenu-ctzln
+* Class: ['helmet', 'licenseplate', 'motorcyclist', 'nohelmet']
